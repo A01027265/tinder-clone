@@ -62,5 +62,5 @@ export default TinderCards;
             return { name: 'Amanda' };
         }
 
-    Left off at 1:02:52
+    Left off at 2:27:32
 */
